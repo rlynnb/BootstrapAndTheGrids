@@ -1,6 +1,10 @@
 main>.container {
     padding: 60px 15px 0;
 }
+body> main{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
 .sticky-nav {
     position: fixed;
     left: 0;
